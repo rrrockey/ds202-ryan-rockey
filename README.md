@@ -1,2 +1,4 @@
 # ds202-ryan-rockey
-Projects for DS 202 at Iowa State
+Ode to an academic advisor
+Happy: I started lifting consistently again.
+Crappy: I broke a bottle of olive oil all over the kitchen.
